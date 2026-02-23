@@ -20,7 +20,7 @@ To launch both the Frontend and Backend concurrently using simple root commands:
    npm run dev
    ```
 
-   _The backend will start on http://localhost:5000_
+   _The backend will start on http://localhost:3001_
 
 2. **Frontend**:
    ```bash
